@@ -1,6 +1,8 @@
-# Bipartite Matching (Hopcroft-Karp)
+# bipartite_match
 
-Bipartite Matching (Hopcroft-Karp) — zero-dependency Python implementation.
+bipartite_match - Hungarian algorithm and Hopcroft-Karp matching.
+
+Zero-dependency, single-file Python CLI.
 
 ## Usage
 
