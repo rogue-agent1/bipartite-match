@@ -1,11 +1,9 @@
-# bipartite-match
+# Bipartite Matching (Hopcroft-Karp)
 
-Maximum bipartite matching (Hopcroft-Karp).""".
-
-Zero dependencies. Python 3.8+.
+Bipartite Matching (Hopcroft-Karp) — zero-dependency Python implementation.
 
 ## Usage
 
 ```bash
-python3 bipartite_match.py --help
+python3 bipartite_match.py
 ```
